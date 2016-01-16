@@ -1,0 +1,17 @@
+[
+  {
+    "id": "clangHelper",
+    "caption": "clangHelper",
+    "children":
+    [
+      {
+        "caption": "Add a include directory to this view",
+        "command": "clang_helper_add_include"
+      },
+      {
+        "caption": "Clear all settings on this view",
+        "command": "clang_helper_remove_from_view"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  // list of directories to pass as include options (-I) to clang
+  "include":
+  [
+  ]
+}

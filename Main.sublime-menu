@@ -1,0 +1,36 @@
+[
+  {
+    "id": "preferences",
+    "children":
+    [
+      {
+        "id": "package-settings",
+        "children":
+        [
+          {
+            "caption": "clangHelper",
+            "children":
+            [
+              {
+                "command": "open_file",
+                "args":
+                {
+                  "file": "${packages}/clangHelper/clangHelper.sublime-settings"
+                },
+                "caption": "Settings – Default"
+              },
+              {
+                "command": "open_file",
+                "args":
+                {
+                  "file": "${packages}/User/clangHelper.sublime-settings"
+                },
+                "caption": "Settings – User"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
