@@ -1,5 +1,9 @@
 # clangHelper #
 
+> Maybe you should go for [EasyClangComplete](https://github.com/niosus/EasyClangComplete)!!!
+I will try it later and report MY opnion, but it looks like what I was looking for when I
+decided to make it by myself...
+
 This [Sublime Text][] plugin adds syntactically- and semantically-valid
 suggestions for **c**/**c++**/**objc**/**objc++** code completion. It uses
 [libclang][] (part of [LLVM][]) and its [Python Bindings][] internally.
